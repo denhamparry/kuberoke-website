@@ -14,7 +14,11 @@ We will have an open bar and some snacks, thanks to our generous sponsors!
 
 **Registration**
 
-Coming soon...
+Registration will collect your email, but it will only be used for sending confirmation and invites; your *personal email address will not be shared* with the sponsors for marketing purposes. We will share the *unique company domain names* from emails (i.e. companyname.com) with sponsors.
+
+<tito-widget event="kuberoke/kuberoke-spring-party-amsterdam-2026"></tito-widget>
+*Can't see the widget? Register here: https://ti.to/kuberoke/kuberoke-spring-party-amsterdam-2026*
+
 
 **Safety & Accessibility**
 
